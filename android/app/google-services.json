@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "686650644260",
+    "project_id": "routine-i",
+    "storage_bucket": "routine-i.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:686650644260:android:dc14ab25139737e94005b1",
+        "android_client_info": {
+          "package_name": "com.example.routinei"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "686650644260-jj2fep3qp6p23a4qmo7jvoi6o0oeo1bt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqDsanT4_3oIcfXs_RJIYpMmBaLxDcrMQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "686650644260-jj2fep3qp6p23a4qmo7jvoi6o0oeo1bt.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "686650644260-5caeblokjcoq6cjmre9pgj3v2t7qan0e.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.routinei"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
